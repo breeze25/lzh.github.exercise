@@ -11,6 +11,9 @@
     <update id="update">
         update dish
         <set>
+            <if test="status != null">
+                status = #{status},
+            </if>
             <if test="name != null">
                 name = #{name},
             </if>
