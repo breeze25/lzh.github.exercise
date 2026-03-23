@@ -48,9 +48,9 @@ sky:
     user-token-name: authentication
 
   shop:
-    address: 陕西省西安市鄠邑区西安石油大学
+    address: 陕西省西安市鄠邑区沣京大道18号西安石油大学鄠邑校区
   baidu :
-      ak:  qFPL1N2ghhG4oBBdLnmZxXAT6qMGpQdu
+      ak: qFPL1N2ghhG4oBBdLnmZxXAT6qMGpQdu
   wechat:
       appid: ${sky.wechat.appid}
       secret: ${sky.wechat.secret}
