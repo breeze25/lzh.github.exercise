@@ -46,6 +46,11 @@ sky:
     user-secret-key: itheima
     user-ttl: 7200000
     user-token-name: authentication
+
+  shop:
+    address: 陕西省西安市鄠邑区西安石油大学
+  baidu :
+      ak:  qFPL1N2ghhG4oBBdLnmZxXAT6qMGpQdu
   wechat:
       appid: ${sky.wechat.appid}
       secret: ${sky.wechat.secret}
